@@ -1,0 +1,14 @@
+{
+    "name": "teanode", 
+    "version": "1.0.0", 
+    "description": "TeaNode, Node.js tabanlı bir web uygulamasıdır.", 
+    "main": "index.js", 
+    "scripts": { 
+      "start": "node index.js"
+    }, 
+    "author": "Ofdbey", 
+    "license": "MIT", 
+    "dependencies": { 
+      "express": "^4.17.1" 
+    } 
+}
