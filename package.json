@@ -6,7 +6,22 @@
     "scripts": { 
       "start": "node index.js"
     }, 
-    "author": "Ofdbey", 
+     "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ofdbey/TeaNode.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ], 
+    "author": {
+        "name": "Ofdbey",
+    },
     "license": "MIT", 
     "homepage": "https://github.com/Ofdbey/TeaNode"
     "dependencies": { 
