@@ -1,13 +1,14 @@
 {
-    "name": "teanode", 
+    "name": "@Ofdbey/Teanode", 
     "version": "1.0.0", 
-    "description": "TeaNode, Node.js tabanlı bir web uygulamasıdır.", 
+    "description": "TeaNode is a Node.js based web application", 
     "main": "index.js", 
     "scripts": { 
       "start": "node index.js"
     }, 
     "author": "Ofdbey", 
     "license": "MIT", 
+    "homepage": "https://github.com/Ofdbey/TeaNode"
     "dependencies": { 
       "express": "^4.17.1" 
     } 
