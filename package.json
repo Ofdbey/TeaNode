@@ -20,11 +20,11 @@
         "registry"
     ], 
     "author": {
-        "name": "Ofdbey",
+        "name": "Ofdbey"
     },
     "license": "MIT", 
-    "homepage": "https://github.com/Ofdbey/TeaNode#readme"
+    "homepage": "https://github.com/Ofdbey/TeaNode#readme",
     "dependencies": { 
-      "express": "^4.17.1" 
+        "express": "^4.17.1" 
     } 
 }
