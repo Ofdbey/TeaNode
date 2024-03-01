@@ -23,7 +23,7 @@
         "name": "Ofdbey",
     },
     "license": "MIT", 
-    "homepage": "https://github.com/Ofdbey/TeaNode"
+    "homepage": "https://github.com/Ofdbey/TeaNode#readme"
     "dependencies": { 
       "express": "^4.17.1" 
     } 
