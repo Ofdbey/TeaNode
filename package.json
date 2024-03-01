@@ -4,9 +4,9 @@
     "description": "TeaNode is a Node.js based web application", 
     "main": "index.js", 
     "scripts": { 
-      "start": "node index.js"
+        "start": "node index.js"
     }, 
-     "files": [
+    "files": [
         "index.js"
     ],
     "repository": {
