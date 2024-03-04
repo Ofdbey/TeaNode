@@ -1,5 +1,5 @@
 {
-    "name": "@Ofdbey/Teanode", 
+    "name": "@ofdbey/Teanode", 
     "version": "1.0.0", 
     "description": "TeaNode is a Node.js based web application", 
     "main": "index.js", 
@@ -20,7 +20,7 @@
         "registry"
     ], 
     "author": {
-        "name": "Ofdbey"
+        "name": "ofdbey"
     },
     "license": "MIT", 
     "homepage": "https://github.com/Ofdbey/TeaNode#readme",
