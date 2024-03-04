@@ -1,5 +1,5 @@
 {
-    "name": "Teanode", 
+    "name": "@ofdbey/Teanode", 
     "version": "1.0.0", 
     "description": "TeaNode is a Node.js based web application", 
     "main": "index.js", 
