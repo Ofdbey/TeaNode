@@ -1,6 +1,6 @@
 {
     "name": "@ofdbey/teanode", 
-    "version": "1.0.0", 
+    "version": "1.0.1", 
     "description": "TeaNode is a Node.js based web application", 
     "main": "index.js", 
     "scripts": { 
